@@ -1,0 +1,24 @@
+# Build artifacts
+backend/target/
+frontend/dist/
+frontend/.angular/
+
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Local tooling (portable Node, etc.)
+tools/
+
+# IDE / editor
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+Thumbs.db
+.DS_Store
